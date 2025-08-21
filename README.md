@@ -1,7 +1,7 @@
 # Davi Queiroz
 
 💻 Desenvolvedor de Software com **4+ anos de experiência** em programação.  
-🔬 Especialista em **otimização de sistemas** e **desenvolvimento web**.  
+🔬 Especialista em **criação de softwares** e **desenvolvimento web**.  
 🎯 Foco em **performance, escalabilidade e boas práticas de arquitetura**.  
 
 
