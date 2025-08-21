@@ -8,7 +8,7 @@
 ## Sobre mim
 - Experiência sólida em **aplicações desktop, web e automação**  
 - Criação de **sites otimizados, modernos e responsivos**  
-- Aprimorando constantemente conhecimentos em **sistemas distribuídos e cloud**  
+- Aprimorando constantemente conhecimentos em **sistemas**  
 - Acredito em **código limpo, colaboração e aprendizado contínuo**  
 
 
